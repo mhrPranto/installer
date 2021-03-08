@@ -7,7 +7,7 @@ $ pkg update && upgrade
 
 $ pkg install python
 
-$ git clone https://github.com/mhrPranto/installer
+$ git clone https://github.com/jimkhan/installer
 
 $ cd installer
 
